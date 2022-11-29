@@ -4,4 +4,5 @@ What did I do?
 - Weibull failure model for each subsystem 
 - possible actions for each subsystem are -> do nothing, repair, preventive replacement and corrective replacement
 - Implemented PPO and A2C stable-baselines3 RL agents for performing the maintenance planning for the created gym-env
-- 
+
+Note : MLP archtecture optimization and Hyperparameter tuning is not done yet
